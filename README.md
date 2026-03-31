@@ -1,6 +1,6 @@
 # WEB103 Prework - *Creatorverse*
 
-Submitted by: **👉🏿 your name here**
+Submitted by: **👉🏿 Ayshwarya Jagadeesan **
 
 About this web app: **Creatorverse is a full-stack app that lets you manage your favorite content creators. You can view, add, edit, and delete creators — each with a name, channel URL, description, and optional image.**
 
